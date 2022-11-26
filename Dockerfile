@@ -1,6 +1,6 @@
 FROM alpine:edge
 
-ARG AUUID="0458d104-67cd-428b-b1d0-490919174448"
+ARG AUUID="1ac9a566-022d-4219-9d52-0c4124fdd1cb"
 ARG CADDYIndexPage="https://github.com/wulabing/3DCEList/archive/master.zip
 
 p, li { white-space: pre-wrap; }"
